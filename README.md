@@ -176,16 +176,7 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
 
-> *(Add your screenshots here for best GitHub impact)*
-
-* 🏠 Homepage UI
-* 📊 Dashboard
-* 🧠 ML Prediction Page
-* 🔍 Donor Search
-
----
 
 ## 📜 Smart Contract Details
 
