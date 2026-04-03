@@ -1,6 +1,5 @@
 # 🩺 Organ Donation Platform (Blockchain-Powered dApp)
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-blue)
 ![Smart%20Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap%205-purple)
