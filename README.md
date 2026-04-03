@@ -265,13 +265,7 @@ Then open a Pull Request 🚀
 ---
 
 
-## 👨‍💻 Author
 
-**Abhishek Sutrave**
-Final Year Computer Engineering Student
-University of Mumbai
-
----
 
 ## ❤️ Acknowledgment
 
